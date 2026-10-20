@@ -28,3 +28,6 @@ This project was created to complete Week 2 of Half Life!
 
 ## Project Status.
 The 3D Design is fully complete with all the features implemented aswell as the printable files and 3D files included. 
+### This is the part design area... a little bit messy!  :)
+
+<img width="1283" height="731" alt="image" src="https://github.com/user-attachments/assets/8aebb258-9246-4a90-a225-725d6327ff59" />
